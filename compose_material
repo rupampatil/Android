@@ -1,1 +1,8 @@
 https://github.com/Foso/Jetpack-Compose-Playground
+
+Status bar color change:
+https://rivaldy.medium.com/changing-the-status-bar-color-in-jetpack-compose-a88d2778bc89
+
+scaffold usecase: (add bottombar, top bar, drawer, floating action button)
+https://www.jetpackcompose.net/scaffold
+
